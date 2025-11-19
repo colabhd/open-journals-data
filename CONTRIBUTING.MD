@@ -45,3 +45,22 @@ A branch `main` é protegida — **não são permitidos commits ou push diretos*
   git fetch origin main
   git rebase origin/main
   ```
+  
+### Guia de estilo (padronização das contribuições)
+
+Para manter a consistência do banco de dados, todas as contribuições devem seguir os padrões estabelecidos.
+
+* **Metadados:** A definição dos nomes das variáveis de metadados segue os padrões estabelecidos pelo "Rótulos de campo da Principal Coleção do Web of Science", disponível em: [https://archive.is/5stfq](https://archive.is/5stfq)
+* **Metadados das Referências:** As variáveis para os metadados das referências citadas seguem a estrutura abaixo:
+
+| variável | significado |
+| :--- | :--- |
+| `cited_in_journal` | Revista em que a referência foi citada |
+| `cited_in_journal_year` | Ano em que a referência foi citada na revista |
+| `references_raw` | Referência completa (crua) |
+| `references_date` | Data da referência |
+| `references_author` | Autores da referência |
+| `title_monogr` | Título |
+| `title_analytic` | Título |
+| `path_pdf` | Local do pdf |
+| `path_xml` | Local do xml |
