@@ -30,9 +30,7 @@ Atualmente, o projeto é um *pipeline* de coleta e organização de dados acadê
 | Ligia Simplicio | [@ligiadlsimplicio](https://github.com/ligiadlsimplicio) |
 | Mavi Silva | [@m-av-i](https://github.com/m-av-i) |
 
-#### FAQ
 
-Caso qualquer usuário tenha dúvidas sobre como utilizar as funcionalidades ou como contribuir, entre em contato pelo e-mail: cpps.franca@unesp.br
 
 ---
 
@@ -53,4 +51,4 @@ Se você encontrar um bug ou um erro nos dados, por favor, [abra uma Issue](link
 
 #### Contato
 
-E-mail: cpps.franca@unesp.br
+Caso qualquer usuário tenha dúvidas sobre como utilizar as funcionalidades ou como contribuir, entre em contato pelo e-mail: cpps.franca@unesp.br
