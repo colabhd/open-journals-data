@@ -11,9 +11,29 @@ Atualmente o projeto está dividido em cinco repositórios:
 
 ### Metadados
 
+#### Artigo das revistas
+
 A definição dos nomes das variáveis dos metadados segue os padrões estabelecidos pelo "Rótulos de campo da Principal Coleção do Web of Science", disponível em: https://archive.is/5stfq
 
-### Metadados das referencias citadas em cada artigo das revistas
+| Variável | Significado |
+| :--- | :--- |
+| `AU` | Autor |
+| `OG` | Instituição |
+| `TI` | Título |
+| `AB` | Resumo |
+| `DE` | Palavras-chaves |
+| `CR` | Referências citadas |
+| `BP_EP` | Página inicial e página final |
+| `PY` | Ano |
+| `IS` | Issue (fascículo/número) |
+| `LA` | Língua |
+| `DI` | Identificador de Objeto Digital (DOI) |
+| `SO` | Nome da revista |
+| `SN` | ISSN da revista |
+| `URL` | Endereço web da página HTML |
+| `PDFURL` | Endereço web do PDF |
+
+### Referencias citadas em cada artigo das revistas
 
 | variável | significado |
 |----------|-------------|
