@@ -1,4 +1,4 @@
-### O JournalsBR começou como um repositório apenas de revistas de Relações Internacionais, mas com o crescimento da equipe do Centro de Pesquisa Política e Social, foi possível abranger ainda mais o escopo do projeto.
+### O Open-Journals-Data começou como um repositório apenas de revistas de Relações Internacionais, mas com o crescimento da equipe do Centro de Pesquisa Política e Social, foi possível abranger ainda mais o escopo do projeto.
 
 Atualmente o projeto está dividido em cinco repositórios:
 - Coletar Metadados

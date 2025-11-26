@@ -51,4 +51,4 @@ Se você encontrar um bug ou um erro nos dados, por favor, [abra uma Issue](link
 
 #### Contato
 
-Caso qualquer usuário tenha dúvidas sobre como utilizar as funcionalidades ou como contribuir, entre em contato pelo e-mail: cpps.franca@unesp.br
+Caso qualquer usuário tenha dúvidas sobre como utilizar as funcionalidades ou como contribuir, por favor entre em contato pelo e-mail: cpps.franca@unesp.br
