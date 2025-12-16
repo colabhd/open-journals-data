@@ -1,4 +1,4 @@
-name: Deploy Starlight (website/) to GitHub Pages
+name: Deploy Starlight (docs/) to GitHub Pages
 
 on:
   push:
@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: website
+        working-directory: docs  
     steps:
       - uses: actions/checkout@v4
 
@@ -28,18 +28,17 @@ jobs:
         with:
           node-version: 20
           cache: npm
-          cache-dependency-path: website/package-lock.json
+          cache-dependency-path: docs/package-lock.json
 
       - name: Install deps
         run: npm ci
 
       - name: Build
-        run: npm run build
-
+        run: npm run build  
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: website/dist
+          path: docs/dist
 
   deploy:
     runs-on: ubuntu-latest
