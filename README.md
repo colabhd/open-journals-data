@@ -1,10 +1,10 @@
-# JournalsBR
+# Open-Journals-Data
 
-Este é o repositório central de documentação do projeto JournalsBR, uma iniciativa do Centro de Pesquisa Política e Social (CPPS).
+Este é o repositório central de documentação do projeto Open-Journals-Data, uma iniciativa do Centro de Pesquisa Política e Social (CPPS).
 
 ### Sobre o projeto
 
-O **JournalsBR** começou como um repositório focado em agregar revistas de Relações Internacionais. Com o crescimento da equipe do Centro de Pesquisa Política e Social (CPPS) da UNESP de Franca, o escopo do projeto foi ampliado.
+O **Open-Journals-Data** começou como um repositório focado em agregar revistas de Relações Internacionais. Com o crescimento da equipe do Centro de Pesquisa Política e Social (CPPS) da UNESP de Franca, o escopo do projeto foi ampliado.
 Nosso foco atual é criar um repositório de revistas de Direito, História, Serviço Social e Relações Internacionais.
 
 ### Objetivos
@@ -51,4 +51,4 @@ Se você encontrar um bug ou um erro nos dados, por favor, [abra uma Issue](link
 
 #### Contato
 
-Caso qualquer usuário tenha dúvidas sobre como utilizar as funcionalidades ou como contribuir, entre em contato pelo e-mail: cpps.franca@unesp.br
+Caso qualquer usuário tenha dúvidas sobre como utilizar as funcionalidades ou como contribuir, por favor entre em contato pelo e-mail: cpps.franca@unesp.br
