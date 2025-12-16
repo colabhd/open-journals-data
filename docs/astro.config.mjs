@@ -4,8 +4,8 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	site: "https://colabhd.github.io",
-	base: "/open-journals-data/",
+	site: "https://open-journals-data.cppsunesp.org",
+	base: "/",
 	integrations: [
 		starlight({
 			title: 'Documentação',
