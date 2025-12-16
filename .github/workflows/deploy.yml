@@ -1,4 +1,4 @@
-name: Deploy Starlight (docs/) to GitHub Pages
+0gitname: Deploy Starlight (docs/) to GitHub Pages
 
 on:
   push:
