@@ -4,9 +4,8 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-<<<<<<< HEAD
-	site: "https://colabhd.github.io",
-	base: "/open-journals-data/",
+	site: "https://open-journals-data.cppsunesp.org",
+	base: "/",
 	integrations: [
 		starlight({
 			title: 'Documentação',
@@ -32,14 +31,6 @@ export default defineConfig({
 					],
 				},
 				{
-=======
-	integrations: [
-		starlight({
-			title: 'My Docs',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
-			sidebar: [
-				{
->>>>>>> b2c0248 (ajuste nome pasta)
 					label: 'Guides',
 					items: [
 						// Each item here is one entry in the navigation menu.
