@@ -1,9 +1,7 @@
 ---
-title: Acesso às revistas
-description: Direcionamento para o indexador
+title: Revistas Disponíveis
+description: Veja a lista de revistas disponíveis
 slug: infos/revistas
 ---
 
-### Aqui estará o link do indexador
-
-Acesso: https://pudim.com.br/
+**EM CONSTRUÇÃO**
