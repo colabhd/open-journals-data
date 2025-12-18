@@ -47,10 +47,17 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Guides',
+					label: 'Roadmap',
 					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+
+						{ 
+							label: 'Roadmap Atual', 
+							slug: 'roadmap/rmatual' 
+						},
+						{
+							label: 'Roadmap Final',
+							slug: 'roadmap/rmfinal'
+						},
 					],
 				},
 				{
