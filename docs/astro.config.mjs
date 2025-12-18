@@ -18,6 +18,14 @@ export default defineConfig({
 							label: "Introdução",
 							slug: "sobre/introducao",
 						},
+						{
+							label: "Conheça nossa equipe",
+							slug: "sobre/equipe",
+						},
+						{
+							label: "Perguntas Frequentes",
+							slug: "sobre/faq",
+						}
 					],
 				},
 				{
@@ -26,6 +34,14 @@ export default defineConfig({
 						{
 							label: "Metadados",
 							slug: "infos/metadados",
+						},
+						{
+							label: "Diretórios",
+							slug: "infos/diretorios",
+						},
+						{
+							label: "Revistas",
+							slug: "infos/revistas",
 						},
 						
 					],
